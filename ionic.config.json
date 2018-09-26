@@ -1,0 +1,8 @@
+{
+  "name": "cScan",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "8433e648"
+}
